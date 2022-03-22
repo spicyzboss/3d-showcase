@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Ship",
+    "position": [20, 25, -30]
+  },
+  {
+    "name": "Well",
+    "position": [-12, 12, 12]
+  }
+]
