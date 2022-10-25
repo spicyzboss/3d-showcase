@@ -6,5 +6,9 @@
   {
     "name": "Well",
     "position": [-12, 12, 12]
+  },
+  {
+    "name": "Robot",
+    "position": [-12, 12, 12]
   }
 ]
